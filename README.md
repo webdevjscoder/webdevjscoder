@@ -1,10 +1,10 @@
 # Hi, I'm Juan 👋☕💻🎮
 
 <a href="https://www.linkedin.com/in/juan-cobian-b0b34417b/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedIn icon" align="left"/>
+  <img src="https://img.icons8.com/fluent/24/000000/linkedin.png" alt="linkedIn icon" align="left"/>
 </a>
 <a href="https://twitter.com/webdevjscoder" target="-blank">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter icon" align="left"/>
+  <img src="https://img.icons8.com/fluent/24/000000/twitter.png" alt="twitter icon" align="left"/>
 </a>
 
 ![visitors](https://page-views.glitch.me/badge?page_id=webdevjscoder.visitor-badge)
