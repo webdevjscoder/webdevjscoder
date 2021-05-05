@@ -9,6 +9,8 @@
 
 ![visitors](https://page-views.glitch.me/badge?page_id=webdevjscoder.visitor-badge)
 
+<br>
+
 I am a *software engineer* from Los Angeles. I am currently looking for job opportunities. During my free time I play video games and work on personal projects. Working on world changing projects is my passion. I am not afraid of the moment, I embrace it. 💪
 
 ![Kobe](http://j.gifs.com/kRj8o6.gif)
