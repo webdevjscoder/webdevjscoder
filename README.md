@@ -15,7 +15,7 @@ I am a *software engineer* from Los Angeles. I am currently looking for job oppo
 
 🔭 I’m currently working on a personal project Tattio
 
-🌱 I’m currently learning TypeScript
+🌱 I’m currently learning Blockchain ⛓️
 
 📫 How to reach me: cobianjuan19@gmail.com
 
